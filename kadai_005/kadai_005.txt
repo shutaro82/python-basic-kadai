@@ -1,0 +1,43 @@
+﻿PS C:\Users\shuta\Documents\samurai\samurai-terakoya> mkdir git_challenge
+
+
+    ディレクトリ: C:\Users\shuta\Documents\samurai\samura
+    i-terakoya
+
+
+Mode                 LastWriteTime         Length Name   
+----                 -------------         ------ ----    
+d-----        2024/05/07     14:10                git_cha
+                                                  llenge  
+
+PS C:\Users\shuta\Documents\samurai\samurai-terakoya> cd git_challenge
+PS C:\Users\shuta\Documents\samurai\samurai-terakoya\git_challenge> git init
+Initialized empty Git repository in C:/Users/shuta/Documents/samurai/samurai-terakoya/git_challenge/.git/
+PS C:\Users\shuta\Documents\samurai\samurai-terakoya\git_challenge> git add hello_world.txt
+PS C:\Users\shuta\Documents\samurai\samurai-terakoya\git_challenge> git commit -m "hello_world.txtを追加"
+[main (root-commit) 34e6b7b] hello_world.txt繧定ｿｽ蜉
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hello_world.txt
+PS C:\Users\shuta\Documents\samurai\samurai-terakoya\git_challenge> git add hello_world.txt
+PS C:\Users\shuta\Documents\samurai\samurai-terakoya\git_challenge> git commit -m "日本語訳を追記"
+[main 7fd8154] 譌･譛ｬ隱櫁ｨｳ繧定ｿｽ險
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+PS C:\Users\shuta\Documents\samurai\samurai-terakoya\git_challenge> git log --oneline
+7fd8154 (HEAD -> main) 日本語訳を追記
+34e6b7b hello_world.txtを追加
+PS C:\Users\shuta\Documents\samurai\samurai-terakoya\git_challenge> cd C:\Users\shuta\Documents\samurai\samurai-terakoya
+PS C:\Users\shuta\Documents\samurai\samurai-terakoya> mkdir kadai_005
+
+
+    ディレクトリ: C:\Users\shuta\Documents\samurai\samura 
+    i-terakoya
+
+
+Mode                 LastWriteTime         Length Name   
+----                 -------------         ------ ----    
+d-----        2024/05/07     15:08                kadai_0
+                                                  05      
+
+
+PS C:\Users\shuta\Documents\samurai\samurai-terakoya> cd kadai_005
+PS C:\Users\shuta\Documents\samurai\samurai-terakoya\kadai_005>
